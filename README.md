@@ -1,1 +1,3 @@
-# danish-adblock-filter
+# Danish Adblock Filter
+
+## Subscribe to the filter by adding
