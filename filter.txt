@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Homepage: https://github.com/Repox/danish-adblock-filter/
 ! Title: Danish Adblock Filter
 ! Expires: 5 hours
