@@ -4,5 +4,5 @@
 ! Expires: 5 hours
 ! Version: 1
 
-http://ekstrabladet.dk/template/*/shared/js/modules/usercommunication/usercommunication.js
-http://static.jyllands-posten.dk/app/data/jp/js/aboverlay/abo.js*
+|| ekstrabladet.dk/template/*/shared/js/modules/usercommunication/usercommunication.js
+|| static.jyllands-posten.dk/app/data/jp/js/aboverlay/abo.js
