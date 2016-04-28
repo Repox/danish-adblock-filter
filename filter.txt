@@ -4,5 +4,12 @@
 ! Expires: 5 hours
 ! Version: 1
 
+! EB
 || ekstrabladet.dk/template/*/shared/js/modules/usercommunication/usercommunication.js
+
+! JP
 || static.jyllands-posten.dk/app/data/jp/js/aboverlay/abo.js
+
+! EUROMAN
+|| egmontassets.net/random.js
+
