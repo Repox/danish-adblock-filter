@@ -13,3 +13,6 @@
 ! EUROMAN
 || egmontassets.net/random.js
 
+! Politken
+|| politiken.dk/static/bundles/js/desktop
+
