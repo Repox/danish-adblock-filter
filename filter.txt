@@ -6,6 +6,7 @@
 
 ! EB
 || ekstrabladet.dk/template/*/shared/js/modules/usercommunication/usercommunication.js
+|| ekstrabladet.dk/template/v5-6/shared/js/build/every.page.min.js
 
 ! JP
 || static.jyllands-posten.dk/app/data/jp/js/aboverlay/abo.js
