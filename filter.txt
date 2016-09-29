@@ -16,4 +16,4 @@
 
 ! Politken
 || politiken.dk/static/bundles/js/desktop
-
+|| politiken.dk/bruger/AdblockBlocker/
